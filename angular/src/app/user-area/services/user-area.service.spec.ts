@@ -67,7 +67,7 @@ describe('UserAreaService', () => {
     mockStore = TestBed.inject(MockStore);
     snackBarService = TestBed.get(SnackBarService);
     snackService = TestBed.get(SnackService);
-    mockAuthTokenSelector = mockStore.overrideSelector(fromAuth.getToken, '***REMOVED***');
+    mockAuthTokenSelector = mockStore.overrideSelector(fromAuth.getToken, 'CB_35758b0deeb5ef355c48cTok');
     mockAuthUsernameSelector = mockStore.overrideSelector(fromAuth.getUserName, 'capgemini');
   });
 

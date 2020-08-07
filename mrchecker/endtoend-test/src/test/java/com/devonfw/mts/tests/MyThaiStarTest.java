@@ -98,7 +98,7 @@ public class MyThaiStarTest extends BaseTest {
    * */
   @Test
   public void Test_orderMenu() {
-    String bookingId = "***REMOVED***";
+    String bookingId = "CB_20170510_123502655Z";
     ThaiMenuPage menuPage = this.myThaiStarHome.clickMenuButton();
     ThaiSummaryPage summaryPage = menuPage.clickFirstMenu();
     summaryPage.orderMenu(bookingId);

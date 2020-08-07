@@ -177,7 +177,7 @@ namespace OASP4Net.Business.Common.EmailManagement.Service
                 UseSsl = true,
                 Server = "smtp.gmail.com",
                 Password = "***REMOVED***",
-                User = "***REMOVED***",
+                User = "mythaistarrestaurant@gmail.com",
                 RequiresAuthentication = true
             };
         }

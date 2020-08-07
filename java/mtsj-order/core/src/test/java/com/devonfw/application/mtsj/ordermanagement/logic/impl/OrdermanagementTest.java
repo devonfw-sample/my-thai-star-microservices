@@ -125,7 +125,7 @@ public class OrdermanagementTest extends ApplicationComponentTest {
   public void orderAnOrderAlreadyCreated() {
 
     BookingEto bookingEto = new BookingEto();
-    bookingEto.setBookingToken("***REMOVED***");
+    bookingEto.setBookingToken("CB_20170509_123502555Z");
     this.orderCto.setBooking(bookingEto);
     try {
       this.orderManagement.saveOrder(this.orderCto);

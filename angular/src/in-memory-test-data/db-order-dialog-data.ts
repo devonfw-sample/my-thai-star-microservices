@@ -131,7 +131,7 @@ export const dialogOrderDetails = {
       'modificationCounter': 1,
       'id': 0,
       'name': 'user0',
-      'bookingToken': '***REMOVED***',
+      'bookingToken': 'CB_20170509_123502555Z',
       'comment': 'Booking Type CSR',
       'bookingDate': 1591116940.063678,
       'expirationDate': 1591113340.063678,

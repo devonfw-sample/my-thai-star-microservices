@@ -4,7 +4,7 @@ export const invitedGuestSample: InvitedGuest = {
   id: 7,
   modificationCounter: 1,
   bookingId: 3,
-  guestToken: '***REMOVED***',
+  guestToken: 'GB_20170510_62350266501Z',
   email: 'guest6@mail.com',
   accepted: false,
   modificationDate: new Date(),
