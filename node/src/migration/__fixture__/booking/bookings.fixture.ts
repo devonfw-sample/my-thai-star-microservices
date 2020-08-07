@@ -31,7 +31,7 @@ export const bookingsSample: Booking[] = [
     modificationCounter: 1,
     userId: 1,
     name: 'user1',
-    bookingToken: '***REMOVED***',
+    bookingToken: 'CB_20170510_123502575Z',
     comment: 'Booking Type GSR',
     email: 'user1@mail.com',
     bookingDate: nowPlusFive,

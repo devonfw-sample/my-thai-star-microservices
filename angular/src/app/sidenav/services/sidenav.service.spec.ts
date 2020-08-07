@@ -52,7 +52,7 @@ describe('SidenavSharedService', () => {
     httpTestingController = TestBed.get(HttpTestingController);
     mockStore = TestBed.inject(MockStore);
     mockOrdersSelector = mockStore.overrideSelector(fromOrder.getAllOrders, getAllOrderData);
-    mockAuthTokenSelector = mockStore.overrideSelector(fromAuth.getToken, '***REMOVED***');
+    mockAuthTokenSelector = mockStore.overrideSelector(fromAuth.getToken, 'CB_35758b0deeb5ef355c48cTok');
   });
 
   it('should create', inject([SidenavService], (service: SidenavService) => {

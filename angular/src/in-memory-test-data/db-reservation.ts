@@ -58,7 +58,7 @@ export const reservation: any = {
                 'modificationCounter': 1,
                 'id': 1,
                 'name': 'user1',
-                'bookingToken': '***REMOVED***',
+                'bookingToken': 'CB_20170510_123502575Z',
                 'comment': 'Booking Type GSR',
                 'bookingDate': 1590557837.734263000,
                 'expirationDate': 1590554237.734263000,
@@ -288,7 +288,7 @@ export const reservation: any = {
                     'modificationCounter': 1,
                     'id': 5,
                     'bookingId': 4,
-                    'guestToken': '***REMOVED***',
+                    'guestToken': 'GB_20170510_52350266501Z',
                     'email': 'guest5@mail.com',
                     'accepted': true,
                     'modificationDate': 1590557837.734263000
@@ -297,7 +297,7 @@ export const reservation: any = {
                     'modificationCounter': 1,
                     'id': 6,
                     'bookingId': 4,
-                    'guestToken': '***REMOVED***',
+                    'guestToken': 'GB_20170510_62350266501Z',
                     'email': 'guest6@mail.com',
                     'accepted': false,
                     'modificationDate': 1590557837.734263000
@@ -306,7 +306,7 @@ export const reservation: any = {
                     'modificationCounter': 1,
                     'id': 7,
                     'bookingId': 4,
-                    'guestToken': '***REMOVED***',
+                    'guestToken': 'GB_20170510_72350266501Z',
                     'email': 'guest7@mail.com',
                     'accepted': true,
                     'modificationDate': 1590557837.734263000
