@@ -3,7 +3,7 @@ export const emailConfirmationsStub = {
         id: 1,
         modificationCounter: 1,
         accepted: true,
-        guestToken: '***REMOVED***',
+        guestToken: '',
         modificationDate: new Date(),
         revision: 1
     },
@@ -19,7 +19,7 @@ export const emailConfirmationsStub = {
         id: 3,
         modificationCounter: 3,
         accepted: true,
-        guestToken: '***REMOVED***',
+        guestToken: '',
         modificationDate: new Date(),
         revision: 3
     },

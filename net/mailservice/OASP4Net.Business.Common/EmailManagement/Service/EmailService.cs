@@ -176,7 +176,7 @@ namespace OASP4Net.Business.Common.EmailManagement.Service
                 Port = 465,
                 UseSsl = true,
                 Server = "smtp.gmail.com",
-                Password = "***REMOVED***",
+                Password = "",
                 User = "mythaistarrestaurant@gmail.com",
                 RequiresAuthentication = true
             };

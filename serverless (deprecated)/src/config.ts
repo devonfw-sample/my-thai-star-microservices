@@ -1,4 +1,4 @@
-export const secret = '***REMOVED***';
+export const secret = '';
 
 export enum MailType {api = 0, mock, both, none}
 export const mailConfig: number = MailType.mock;
