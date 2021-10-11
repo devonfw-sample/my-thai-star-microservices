@@ -8,12 +8,12 @@ const config = require('../config');
 
 // {
 //     "web": {
-//         "client_id": "***REMOVED***",
+//         "client_id": "**REMOVED**",
 //         "project_id": "my-thai-star-graphql",
 //         "auth_uri": "https://accounts.google.com/o/oauth2/auth",
 //         "token_uri": "https://accounts.google.com/o/oauth2/token",
 //         "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-//         "client_secret": "***REMOVED***"
+//         "client_secret": "**REMOVED**"
 //     }
 // }
 // https://developers.google.com/oauthplayground/?code=4/nMkCl03MF1-RbULCmF0aTeRfWo53k_eIvJVnJrmBu7o#
@@ -24,10 +24,10 @@ const productionTransportConfig = {
   auth: {
     type: 'OAuth2',
     user: 'my.thai.star.devonfw@gmail.com',
-    clientId: '***REMOVED***',
-    clientSecret: '***REMOVED***',
-    refreshToken: '***REMOVED***',
-    accessToken: '***REMOVED***',
+    clientId: '**REMOVED**',
+    clientSecret: '**REMOVED**',
+    refreshToken: ' ',
+    accessToken: ' ',
   },
 };
 
