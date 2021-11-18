@@ -8,13 +8,13 @@ toc::[]
 The Node.js backend for My Thai Star application is going to be based on:
 
  - *Express.js* as the web application framework
- - *OASP4Fn* as data access layer framework
+ - *devon4node* as data access layer framework
  - *DynamoDB* as NoSQL Database
 
 To know more details about the above technologies please visit the following documentation:
 
  - https://expressjs.com[Express.js]
- - https://github.com/oasp/oasp4fn/wiki[OASP4Fn]
+ - https://github.com/devonfw/devon4node/wiki[devon4node]
  - https://aws.amazon.com/dynamodb/developer-resources/[DynamoDB]
 
 == Basic architecture details
